@@ -1,0 +1,69 @@
+# .NET Core
+Calculator/Calculator/project.lock.json
+Calculator/Calculator/project.fragment.lock.json
+Calculator/Calculator/artifacts/
+Calculator/Calculator/bin/
+Calculator/Calculator/obj/
+Calculator/Calculator/*.user
+Calculator/Calculator/*.vscode/
+Calculator/Calculator/*.suo
+Calculator/Calculator/*.cache
+Calculator/Calculator/*.log
+Calculator/Calculator/*.vs
+Calculator/Calculator/_*
+Calculator/Calculator/*.bak
+Calculator/Calculator/*.pdb
+
+# Visual Studio Code
+Calculator/Calculator/.vscode/
+
+# Rider
+Calculator/Calculator/.idea/
+
+# User-specific files
+Calculator/Calculator/*.suo
+Calculator/Calculator/*.user
+Calculator/Calculator/*.userosscache
+Calculator/Calculator/*.sln.docstates
+
+# NuGet
+Calculator/Calculator/*.nuget.props
+Calculator/Calculator/*.nuget.targets
+
+
+Calculator/UnitTestCalculator/project.lock.json
+Calculator/UnitTestCalculator/project.fragment.lock.json
+Calculator/UnitTestCalculator/artifacts/
+Calculator/UnitTestCalculator/bin/
+Calculator/UnitTestCalculator/obj/
+Calculator/UnitTestCalculator/*.user
+Calculator/UnitTestCalculator/*.vscode/
+Calculator/UnitTestCalculator/*.suo
+Calculator/UnitTestCalculator/*.cache
+Calculator/UnitTestCalculator/*.log
+Calculator/UnitTestCalculator/*.vs
+Calculator/UnitTestCalculator/_*
+Calculator/UnitTestCalculator/*.bak
+Calculator/UnitTestCalculator/*.pdb
+
+# Visual Studio Code
+Calculator/UnitTestCalculator/.vscode/
+
+# Rider
+Calculator/UnitTestCalculator/.idea/
+
+# User-specific files
+Calculator/UnitTestCalculator/*.suo
+Calculator/UnitTestCalculator/*.user
+Calculator/UnitTestCalculator/*.userosscache
+Calculator/UnitTestCalculator/*.sln.docstates
+
+# NuGet
+Calculator/UnitTestCalculator/*.nuget.props
+Calculator/UnitTestCalculator/*.nuget.targets
+
+
+Calculator/packages/
+
+
+
